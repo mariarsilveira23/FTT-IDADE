@@ -21,6 +21,8 @@ public class Idade {
 		}
 				
 		scanner.close();
+		
+		//teste
 
 	}
 
